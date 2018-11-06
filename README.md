@@ -17,7 +17,7 @@
     
     ** Made With **
     - Unity
-    - Javascript
+    - C#
     - SteamVR Plugin 2.0 (W/ Haptic Feedback 🙂)
     - Blender (basic models)
     
