@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/simon.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/taptap.unity
+    guid: 6ccdab57240ef244c8694ebff80a5b97
+  - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: e97d1f110b272c4418260b806496fdfa
+  - enabled: 1
+    path: Assets/Scenes/basketball.unity
+    guid: e98e374dccb96174fb8c33e22edad68d
+  - enabled: 1
+    path: Assets/Scenes/persistentStart.unity
+    guid: 4f552a6f7a5af46e48b50162e9d5efba
+  m_configObjects: {}
